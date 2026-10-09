@@ -1,9 +1,9 @@
-#Write a menu driven python program which performs the following:
-#a. Find area of circle
-#b. Find area of triangle
-#c. Find area of square and rectangle
-#d. Find Simple Interest
-
+#2. Write a menu driven python program which performs the following:
+# (Implement using if-else)
+# a.  Find area of circle ( 3.14 * r * r)
+# b.  Find area of triangle (0.5 * base * height)
+# c.  Find area of square and rectangle (side * side)(length * breath)
+# d.  Find Simple Interest
 
 print("------menu-----")
 print("1.Area of Circle")
